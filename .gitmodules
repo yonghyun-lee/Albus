@@ -1,3 +1,6 @@
 [submodule "Albus-front"]
 	path = Albus-front
 	url = https://github.com/yonghyun-lee/Albus-front
+[submodule "Albus-back"]
+	path = Albus-back
+	url = https://github.com/yonghyun-lee/Albus-back
